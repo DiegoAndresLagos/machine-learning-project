@@ -1,7 +1,7 @@
 # Documentación del proceso de recolección de datos del conjunto de bank_dataset.CSV
 ## 1. Fuente
 
-** Identificación de fuentes:**
+**Identificación de fuentes:**
 - Base de dades interna del CRM
 
 **Descripció de les Fonts:**
