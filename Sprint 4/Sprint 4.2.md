@@ -34,21 +34,21 @@ print(df.info())
 - Categoricos: `job`, `marital`, `education`, `default`, `housing`, `loan`, `contact`, `campaign`, `poutcome`, `deposit`
 
 
-**Format d'Emmagatzematge:**
-- Dades tabulars emmagatzemades en fitxer csv.
+**Formato de almacenamiento:**
+- Datos tabulares almacenados en formato csv.
 
-## 4. Limitacions de les dades
+## 4. Limitación de los datos
 
-- Diferents Temps d'Actualització: Les dades d'ús de l'app i del lloc web poden ser recol·lectades i actualitzades al CRM en moments diferents.
+- Diferentes tiempos de actualización: Los datos de uso de la app y del sitio web pueden ser recolectados y actualizados en el CRM en momentos diferentes.
 
 ## 5. Consideracions sobre Dades Sensibles
 
-**Tipus de Dades Sensibles:**
-- Informació Personal Identificable (PII): `Email`, `Address`
-- Informació Financera Sensible: `Yearly Amount Spent`
-- Dades Comportamentals Sensibles:`Avg. Session Length`, `Time on App`, `Time on Website`, `Length of Membership`
+**Tipos de datos sensibles:**
+- Información Personal Identificable (PII): `age`, `balance`,`contact`
+- Información Financera Sensible: `balance`
+- Datos Comportamentales Sensibles: `housing`, `loan`
 
-**Mesures de Protecció:**
+**Medidas de protección:**
 - **Anonimització i Pseudonimització:**
   - S'aplicaran hash per a l'email i la substitució per codis per a Address.
 - **Accés Restringit:**
