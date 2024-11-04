@@ -49,9 +49,9 @@ print(df.info())
 - Datos Comportamentales Sensibles: `housing`, `loan`
 
 **Medidas de protección:**
-- **Anonimització i Pseudonimització:**
-  - S'aplicaran hash per a l'email i la substitució per codis per a Address.
-- **Accés Restringit:**
-  - Accés a dades sensibles restringit només a personal autoritzat amb necessitat de conèixer aquestes dades per a fins específics del projecte.
-- **Compliment de Regulacions:**
-  - Compliment amb la GDRP
+- **Anonimización y Pseudonimización:**
+  - Se aplicará hash para el contacto y datos sensibles como marital
+- **Acceso restringido:**
+  - Se restringirá el acceso unicamente al personal de la empresa implicado en al toda de decisiones
+- **Cumplimiento de regulación:**
+  - Cumplimiento con la GDRP
