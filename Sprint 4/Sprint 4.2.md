@@ -2,7 +2,7 @@
 ## 1. Fuente
 
 **Identificación de fuentes:**
-- Base de dades interna del CRM
+- Base de datos de llamadas interna del CRM del Banco
 
 **Descripció de les Fonts:**
 - La base de dades CRM conté registres de transaccions, dades de clients i informació sobre les connexions a la web i l'aplicació que el departament d'IT captura mitjançant una API
