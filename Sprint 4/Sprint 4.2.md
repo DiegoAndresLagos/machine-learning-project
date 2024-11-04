@@ -15,13 +15,13 @@
 **Frecuencia de recolección:**
 - Diaria
   
-**Scripts de Descàrrega:**
+**Scripts de Descarga:**
 
 ```python
 
 import pandas as pd
 
-csv_url = "https://raw.githubusercontent.com/ITACADEMYprojectes/projecteML/main/Ecommerce_Customers.csv"
+csv_url = "https://github.com/ITACADEMYprojectes/projecteML/blob/e8d1aab0a24ddf55af9dfd9e83b1ea79e34c1af9/bank_dataset.CSV"
 df = pd.read_csv(csv_url)
 print(df.info())
 
