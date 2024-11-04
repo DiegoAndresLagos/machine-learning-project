@@ -30,7 +30,7 @@ print(df.info())
 ## 3. Formato y estructura de los datos
 
 **Tipos de datos:**
-- Numericos: `age`, `balance`, `day`, `month`, `duration`, `pdays`, `previous`, ` `, ` `, ` `
+- Numericos: `age`, `balance`, `day`, `month`, `duration`, `pdays`, `previous`
 - Categoricos: `job`, `marital`, `education`, `default`, `housing`, `loan`, `contact`, `campaign`, `poutcome`, `deposit`
 
 
