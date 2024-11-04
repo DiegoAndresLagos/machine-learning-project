@@ -27,11 +27,14 @@ print(df.info())
 
 ```
 
-## 3. Format i Estructura de les Dades
+## 3. Formato y estructura de los datos
 
-**Tipus de Dades:**
-- Numèrics: `Avg. Session Length`, `Time on App`, `Time on Website`, `Length of Membership`, `Yearly Amount Spent`
-- Categòric: `Email`, `Address`, `Avatar`
+**Tipos de datos:**
+- Numèrics: `age`, `balance`, `day`, `month`, `duration`, `pdays`, `previous`, ` `, ` `, ` `
+- Categòric: `job`, `marital`, `education`, `default`, `housing`, `loan`, `contact`, `campaign`, `poutcome`, `deposit`
+
+,, ,,,,
+,,,default,,housing,loan,contact,campaign,poutcome,deposit
 
 **Format d'Emmagatzematge:**
 - Dades tabulars emmagatzemades en fitxer csv.
