@@ -5,15 +5,15 @@
 - Base de datos de llamadas interna del CRM del Banco
 
 **Descripción de la fuente:**
-- La base de dades CRM conté registres de transaccions, dades de clients i informació sobre les connexions a la web i l'aplicació que el departament d'IT captura mitjançant una API
+- Los datos están relacionados con campañas de marketing directo de una institución bancaria portuguesa. Las campañas de marketing se basaron en llamadas telefónicas. A menudo, se requirió más de un contacto con el mismo cliente, para acceder si el producto (depósito a plazo bancario) sería ('sí') o no ('no') suscrito. La base de datos contiene información personal de los clientes, como tambien el portafolio de productos actual con el banco y la gestion realizada por parte del equipo comercial y tambien si a tomado o no el producto de deposito a termino objeto de analisis, esta información fue relecolectada por el departamento de IT mediante una API.
   
-## 2. Mètodes de recol·lecció de dades
+## 2. Metodo de recolección de datos
 
-**Procediments i Eines:**
-- Exportació programada en format CSV, emmagatzemada en un repositori de GitHub diàriament. Aquesta tasca la fa el departament d'IT.
+**Procedimientos y herramientas:**
+- Exportación programada en CSV, Almacenada diariamente en el repositorio de Github de la empresa con la supervisión del departamento de IT.
 
-**Freqüència de Recol·lecció:**
-- Diàriament
+**Frecuencia de recolección:**
+- Diaria
   
 **Scripts de Descàrrega:**
 
